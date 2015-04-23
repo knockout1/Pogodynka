@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pogodynka</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string name="title_activity_detailed_view_activitiy">DetailedViewActivitiy</string>
+</resources>
